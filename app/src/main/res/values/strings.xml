@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather API</string>
+    <string name="city_name">Enter City Name (e.g Malaybalay)</string>
+    <string name="banner_adunit_id">banner_id</string>
+    <string name="countyCode">Enter Country Code e.g PH (Optional)</string>
+    <string name="get">Get</string>
+    <string name="myName">Dominic A. Del Puerto</string>
+    <string name="weather_update">Weather Update</string>
+</resources>
